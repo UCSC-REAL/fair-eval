@@ -1,0 +1,7 @@
+.DS_Store
+celeba/data/*
+celeba/experiments/__pycache__/*
+__pycache__/*
+*.log
+celeba/__pycache__/*
+celeba/exps/exps/run_0/args.json
