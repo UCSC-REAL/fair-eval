@@ -92,7 +92,7 @@ python3 gender_celeba_2nn.py --model_sel 0 --e1 0.0 --e2 0.0
 ```
 
 ## Step 5: Evaluate and calibrate fairness
-We have provided the preprocessed data for evaluating fairness. You can just run the last step to get results.
+We have provided the preprocessed data for evaluating fairness. You can just unzip ``./celeba/gender_results.zip`` to folder ``./celeba``, and run the last step to get results.
 
 ```shell
 # (e1,e2) = [(0.0,0.0),
